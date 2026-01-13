@@ -1,0 +1,13 @@
+# --- Compiled Object Files ---
+*.o
+
+# --- Executables ---
+# Listing specific names is safest for this project:
+HelloGL
+HelloSquare
+
+# --- Debug Symbols (Common on macOS) ---
+*.dSYM/
+
+# --- OS Generated Files ---
+.DS_Store
